@@ -106,7 +106,7 @@ cover/
 # Translations
 *.mo
 *.pot
-*.png
+# *.png
 
 # Django stuff:
 *.log
